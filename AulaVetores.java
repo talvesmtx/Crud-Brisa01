@@ -11,7 +11,7 @@ public class AulaVetores {
 			vetor[i] = entrada.nextInt();
 	    }
 		
-		System.out.println("O valores armazenados no vetor são \n");
+		System.out.println("Os valores armazenados no vetor são \n");
 		for(int i = 0; i < vetor.length; i++)
 		{
 			System.out.println(vetor[i]);
