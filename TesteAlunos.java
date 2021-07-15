@@ -66,7 +66,7 @@ public class TesteAlunos {
 		String nome = JOptionPane.showInputDialog("Digite seu nome");
 		aluno.setNome(nome);
 		aluno.setIdade(25);
-		aluno.setRA(987654);
+		aluno.setRA(987451);
 		
 		alunosArray.inserir(aluno);
 		alunos.imprirDados();*/
