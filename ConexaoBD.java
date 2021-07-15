@@ -11,7 +11,7 @@ public class ConexaoBD {
 		}
 	}
 	
-	// Obtém conexão com o banco de dados
+	// Obtém conexão com o BD. 
 	public static Connection obtemConexao() throws SQLException {
 		String servidor = "localhost";
 		String porta = "3306";
