@@ -18,7 +18,7 @@ public class AlunosArray {
 			alunosArray.remove(posicao);
 		}
 	}
-/*	public void atualizar(String nome, String novoNome)
+/*	public void vai atualizar(String nome, String novoNome)
 	{ int posicao = buscarAlunos(nome);
 		if(posicao >= 0) {
 			Alunos alunos;
