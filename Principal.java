@@ -30,7 +30,7 @@ public class Principal{
             }
                break;
             case 3:{
-               Pessoa teste = new Pessoa ("Ana");
+               Pessoa teste = new Pessoa ("Anne");
                int codigo = Integer.parseInt (JOptionPane.showInputDialog ("Codigo?"));
                Pessoa p = new Pessoa (codigo);
                p.apagar();
@@ -40,7 +40,7 @@ public class Principal{
             case 4:
                break;
             case 0:
-               JOptionPane.showMessageDialog (null, "ok, adeus");
+               JOptionPane.showMessageDialog (null, "ok, Adeus");
                break;
             
          }
