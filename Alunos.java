@@ -13,8 +13,8 @@ public class Alunos {
 	
 	public Alunos()
 	{
-		nome = "Hamilton";
-		idade = 40;
+		nome = "Thiago";
+		idade = 38;
 		ra = 123456;
 	}
 	public Alunos(int id)
